@@ -19,7 +19,7 @@
 | Android 15 emülatöründe oynatma       | 1.0.1 uygulaması “Canlı”; native MediaSession PLAYING, hata yok                               |
 | Telefonda çalıştırma                  | Bağlı cihaz yok; yapılmadı                                                                    |
 
-Sunucusuz Android deneme APK: `artifacts/kafa-radyo-1.1.0.apk` (arm64-v8a, sürüm kodu 4). JavaScript paketi APK içinde bulunduğu ve `debuggable` bayrağının kapalı olduğu kontrol edildi. Bu APK şablonun geliştirme anahtarıyla imzalanmıştır; mağaza yayımlamasında kendi imzalama anahtarınız kullanılmalıdır.
+Sunucusuz Android deneme APK: `artifacts/kafa-radyo-1.2.0.apk` (arm64-v8a, sürüm kodu 5). JavaScript paketi APK içinde bulunduğu ve `debuggable` bayrağının kapalı olduğu kontrol edildi. Bu APK şablonun geliştirme anahtarıyla imzalanmıştır; mağaza yayımlamasında kendi imzalama anahtarınız kullanılmalıdır.
 
 Android debug APK: `android/app/build/outputs/apk/debug/app-debug.apk`. Bu geliştirme APK'sı Metro sunucusuna ihtiyaç duyar. Kontrol komutu:
 
@@ -52,3 +52,5 @@ Son 1.1.0 ARM64 release APK başarıyla derlendi; imza, gömülü JavaScript, ar
 Program seçimi aynı istasyon ve başlığın tüm yayın günlerine genişletildi. Nihat’la Sivrisinek’in paketlenmiş akıştaki altı yayın kaydı için ayrı haftalık tetikleyiciler oluşur. Favoriden çıkarma ve hatırlatıcı açma/kapatma tüm gruba uygulanır. İzin reddi, kısmi native kurulum hatasında geri alma, eski tek günlük tercihlerin genişletilmesi ve aynı adlı farklı istasyonları ayırma testleri eklendi. Kişisel radyo ekleme/çıkarma, yeniden yükleme, hazır radyoyu geri ekleme, yinelenen/geçersiz URL ve bozuk kayıt testleri eklendi. Toplam 67 test geçti; TypeScript ve ESLint geçti.
 
 Android 15 emülatöründe program favoriye alınarak hatırlatıcıların otomatik açılması kontrol edildi. Uygulamanın kendi Notifee veritabanında Nihat’la Sivrisinek’in altı gün kaydı için altı native bildirim kaydı bulundu. Bildirimlerin gelecekte fiziksel cihazda teslimi bu kontrolün kapsamına dahil değildir.
+
+Son native arayüz kontrolünde özel radyo ekleme, hazır radyo çıkarma, özel radyo silme ve program takibi uygulama zorla kapatılıp yeniden açıldıktan sonra korundu. Program favoriden çıkarıldığında tüm günlerin favori kartları ve altı native bildirim kaydı kaldırıldı. 1.2.0 ARM64 release derlemesi başarılı; APK imzası, sürüm kodu 5, mimari ve gömülü JavaScript doğrulandı. APK `artifacts/kafa-radyo-1.2.0.apk` konumundadır.

@@ -83,3 +83,6 @@ dist/
 
 # Telefona kurulabilecek yerel APK çıktıları
 artifacts/*.apk
+
+# Ekibe özel yerel geliştirme notları
+/GELISTIRME_NOTLARI.local.md
