@@ -1,0 +1,74 @@
+{
+  "name": "RadyoMobil",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "lint": "eslint .",
+    "start": "expo start --dev-client",
+    "test": "jest",
+    "typecheck": "tsc --noEmit",
+    "postinstall": "patch-package --error-on-fail",
+    "format": "prettier --write App.tsx src __tests__ *.js *.mjs *.json README.md"
+  },
+  "dependencies": {
+    "@notifee/react-native": "^9.1.8",
+    "@react-native-community/netinfo": "^12.0.1",
+    "@react-navigation/native": "^7.5.0",
+    "@react-navigation/native-stack": "^7.20.0",
+    "babel-preset-expo": "^57.0.13",
+    "date-fns": "^4.4.0",
+    "date-fns-tz": "^3.2.0",
+    "expo": "^57.0.26",
+    "expo-audio": "57.0.5",
+    "expo-modules-core": "^57.0.20",
+    "expo-system-ui": "^57.0.4",
+    "react": "19.2.3",
+    "react-native": "0.86.0",
+    "react-native-mmkv": "^4.3.2",
+    "react-native-nitro-modules": "^0.37.1",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-screens": "^4.28.0",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/runtime": "^7.25.0",
+    "@eslint/js": "^10.0.1",
+    "@react-native-community/cli": "20.2.0",
+    "@react-native-community/cli-platform-android": "20.2.0",
+    "@react-native-community/cli-platform-ios": "20.2.0",
+    "@react-native/babel-preset": "^0.86.0",
+    "@react-native/jest-preset": "^0.86.0",
+    "@react-native/metro-config": "^0.86.0",
+    "@react-native/typescript-config": "^0.86.0",
+    "@types/jest": "^29.5.13",
+    "@types/react": "^19.2.0",
+    "eslint": "^10.12.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.13.0",
+    "jest": "^29.6.3",
+    "patch-package": "^8.0.1",
+    "prettier": "^3.9.9",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.1"
+  },
+  "engines": {
+    "node": ">= 22.11.0"
+  },
+  "main": "index.js",
+  "expo": {
+    "autolinking": {
+      "buildFromSource": [
+        "expo-audio"
+      ],
+      "exclude": [
+        "expo-dom-webview",
+        "expo-font"
+      ]
+    }
+  }
+}

@@ -1,0 +1,741 @@
+[
+  {
+    "id": "kafa-60886eaca7",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Muhabbet",
+    "dayOfWeek": 1,
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-1ab8b31f6c",
+    "stationId": "kafa-radyo",
+    "title": "Güçlü Bakış",
+    "dayOfWeek": 1,
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "presenter": "Güçlü Mete"
+  },
+  {
+    "id": "kafa-ce61dff235",
+    "stationId": "kafa-radyo",
+    "title": "Bedia ile Güzel Şeyler",
+    "dayOfWeek": 1,
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "presenter": "Bedia Ceylan Güzelce"
+  },
+  {
+    "id": "kafa-f6fb481ea4",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 1,
+    "startTime": "12:00",
+    "endTime": "12:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-2aa5c1949d",
+    "stationId": "kafa-radyo",
+    "title": "Gazoz Ağacı",
+    "dayOfWeek": 1,
+    "startTime": "12:10",
+    "endTime": "14:00",
+    "presenter": "Cem Arslan"
+  },
+  {
+    "id": "kafa-bc413d4411",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda düvenci ile Bugün",
+    "dayOfWeek": 1,
+    "startTime": "14:00",
+    "endTime": "14:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-540c842b02",
+    "stationId": "kafa-radyo",
+    "title": "Pınarating",
+    "dayOfWeek": 1,
+    "startTime": "14:10",
+    "endTime": "16:00",
+    "presenter": "Pınar İnanç Akar"
+  },
+  {
+    "id": "kafa-91e133d39f",
+    "stationId": "kafa-radyo",
+    "title": "Zekirdek",
+    "dayOfWeek": 1,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-58bfe9090e",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Sivrisinek",
+    "dayOfWeek": 1,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-7d6c827338",
+    "stationId": "kafa-radyo",
+    "title": "Gezmek Yetmez",
+    "dayOfWeek": 1,
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "presenter": "Oğuz Otay"
+  },
+  {
+    "id": "kafa-1e578b4f2c",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 1,
+    "startTime": "21:00",
+    "endTime": "22:00"
+  },
+  {
+    "id": "kafa-38006f02eb",
+    "stationId": "kafa-radyo",
+    "title": "Matrax",
+    "dayOfWeek": 1,
+    "startTime": "22:00",
+    "endTime": "01:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-fc02f8dd14",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Müzik",
+    "dayOfWeek": 1,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  },
+  {
+    "id": "kafa-da011aaf96",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Muhabbet",
+    "dayOfWeek": 2,
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-0376ff2660",
+    "stationId": "kafa-radyo",
+    "title": "Güçlü Bakış",
+    "dayOfWeek": 2,
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "presenter": "Güçlü Mete"
+  },
+  {
+    "id": "kafa-d23be52c0b",
+    "stationId": "kafa-radyo",
+    "title": "Bedia ile Güzel Şeyler",
+    "dayOfWeek": 2,
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "presenter": "Bedia Ceylan Güzelce"
+  },
+  {
+    "id": "kafa-28f5d81933",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 2,
+    "startTime": "12:00",
+    "endTime": "12:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-d60342835a",
+    "stationId": "kafa-radyo",
+    "title": "Gazoz Ağacı",
+    "dayOfWeek": 2,
+    "startTime": "12:10",
+    "endTime": "14:00",
+    "presenter": "Cem Arslan"
+  },
+  {
+    "id": "kafa-bcebb5e0c0",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 2,
+    "startTime": "14:00",
+    "endTime": "14:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-9898281cdd",
+    "stationId": "kafa-radyo",
+    "title": "Pınarating",
+    "dayOfWeek": 2,
+    "startTime": "14:10",
+    "endTime": "16:00",
+    "presenter": "Pınar İnanç Akar"
+  },
+  {
+    "id": "kafa-f048ce2e25",
+    "stationId": "kafa-radyo",
+    "title": "Zekirdek",
+    "dayOfWeek": 2,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-257737cfcb",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Sivrisinek",
+    "dayOfWeek": 2,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-be4d0f754f",
+    "stationId": "kafa-radyo",
+    "title": "Kültür Sanat Kafası",
+    "dayOfWeek": 2,
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "presenter": "Bedia Ceylan Güzelce"
+  },
+  {
+    "id": "kafa-269340c6c0",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 2,
+    "startTime": "21:00",
+    "endTime": "22:00"
+  },
+  {
+    "id": "kafa-ca27a2ab53",
+    "stationId": "kafa-radyo",
+    "title": "Matrax",
+    "dayOfWeek": 2,
+    "startTime": "22:00",
+    "endTime": "01:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-d11f2d631e",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Müzik",
+    "dayOfWeek": 2,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  },
+  {
+    "id": "kafa-f916e0f9d4",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Muhabbet",
+    "dayOfWeek": 3,
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-a2345a238d",
+    "stationId": "kafa-radyo",
+    "title": "Güçlü Bakış",
+    "dayOfWeek": 3,
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "presenter": "Güçlü Mete"
+  },
+  {
+    "id": "kafa-71e505acfc",
+    "stationId": "kafa-radyo",
+    "title": "Bedia ile Güzel Şeyler",
+    "dayOfWeek": 3,
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "presenter": "Bedia Ceylan Güzelce"
+  },
+  {
+    "id": "kafa-82ec88df96",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 3,
+    "startTime": "12:00",
+    "endTime": "12:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-a87b4e6d8c",
+    "stationId": "kafa-radyo",
+    "title": "Gazoz Ağacı",
+    "dayOfWeek": 3,
+    "startTime": "12:10",
+    "endTime": "14:00",
+    "presenter": "Cem Arslan"
+  },
+  {
+    "id": "kafa-10540240c7",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 3,
+    "startTime": "14:00",
+    "endTime": "14:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-eb2b1f28da",
+    "stationId": "kafa-radyo",
+    "title": "Pınarating",
+    "dayOfWeek": 3,
+    "startTime": "14:10",
+    "endTime": "16:00",
+    "presenter": "Pınar İnanç Akar"
+  },
+  {
+    "id": "kafa-206406211b",
+    "stationId": "kafa-radyo",
+    "title": "Zekirdek",
+    "dayOfWeek": 3,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-2816acc44a",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Sivrisinek",
+    "dayOfWeek": 3,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-75c45eabd9",
+    "stationId": "kafa-radyo",
+    "title": "Kitap Kafası",
+    "dayOfWeek": 3,
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "presenter": "Ayça Derin Karabulut"
+  },
+  {
+    "id": "kafa-4313150efa",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 3,
+    "startTime": "21:00",
+    "endTime": "22:00"
+  },
+  {
+    "id": "kafa-b4d7ebbfe6",
+    "stationId": "kafa-radyo",
+    "title": "Matrax",
+    "dayOfWeek": 3,
+    "startTime": "22:00",
+    "endTime": "01:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-622a2902f9",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 3,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  },
+  {
+    "id": "kafa-556dfdb155",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Muhabbet",
+    "dayOfWeek": 4,
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-1c7dd9882f",
+    "stationId": "kafa-radyo",
+    "title": "Güçlü Bakış",
+    "dayOfWeek": 4,
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "presenter": "Güçlü Mete"
+  },
+  {
+    "id": "kafa-8832debfa5",
+    "stationId": "kafa-radyo",
+    "title": "Bedia ile Güzel Şeyler",
+    "dayOfWeek": 4,
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "presenter": "Bedia Ceylan Güzelce"
+  },
+  {
+    "id": "kafa-981a08f32a",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 4,
+    "startTime": "12:00",
+    "endTime": "12:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-f9ac3ee822",
+    "stationId": "kafa-radyo",
+    "title": "Gazoz Ağacı",
+    "dayOfWeek": 4,
+    "startTime": "12:10",
+    "endTime": "14:00",
+    "presenter": "Cem Arslan"
+  },
+  {
+    "id": "kafa-e99f6741e9",
+    "stationId": "kafa-radyo",
+    "title": "Pınarating",
+    "dayOfWeek": 4,
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "presenter": "Pınar İnanç Akar"
+  },
+  {
+    "id": "kafa-c0f2df43b4",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 4,
+    "startTime": "14:00",
+    "endTime": "14:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-f7c652fce6",
+    "stationId": "kafa-radyo",
+    "title": "Zekirdek",
+    "dayOfWeek": 4,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-b407df7176",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Sivrisinek",
+    "dayOfWeek": 4,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-1d120a3a1b",
+    "stationId": "kafa-radyo",
+    "title": "Ve Şaire Ve Şaire",
+    "dayOfWeek": 4,
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "presenter": "Sunay Akın"
+  },
+  {
+    "id": "kafa-a027d84495",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 4,
+    "startTime": "21:00",
+    "endTime": "22:00"
+  },
+  {
+    "id": "kafa-825b00b612",
+    "stationId": "kafa-radyo",
+    "title": "Matrax",
+    "dayOfWeek": 4,
+    "startTime": "22:00",
+    "endTime": "01:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-4ffa5a3681",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 4,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  },
+  {
+    "id": "kafa-dfa114c675",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Muhabbet",
+    "dayOfWeek": 5,
+    "startTime": "07:00",
+    "endTime": "09:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-a65347aca9",
+    "stationId": "kafa-radyo",
+    "title": "Güçlü Bakış",
+    "dayOfWeek": 5,
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "presenter": "Güçlü Mete"
+  },
+  {
+    "id": "kafa-1f58ecf229",
+    "stationId": "kafa-radyo",
+    "title": "Bedia ile Güzel Şeyler",
+    "dayOfWeek": 5,
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "presenter": "Bedia Ceylan Güzelce"
+  },
+  {
+    "id": "kafa-6280635791",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 5,
+    "startTime": "12:00",
+    "endTime": "12:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-51b2ed0595",
+    "stationId": "kafa-radyo",
+    "title": "Gazoz Ağacı",
+    "dayOfWeek": 5,
+    "startTime": "12:10",
+    "endTime": "14:00",
+    "presenter": "Cem Arslan"
+  },
+  {
+    "id": "kafa-d9b0018344",
+    "stationId": "kafa-radyo",
+    "title": "Ceyda Düvenci ile Bugün",
+    "dayOfWeek": 5,
+    "startTime": "14:00",
+    "endTime": "14:10",
+    "presenter": "Ceyda Düvenci"
+  },
+  {
+    "id": "kafa-e8d4b8b992",
+    "stationId": "kafa-radyo",
+    "title": "Pınarating",
+    "dayOfWeek": 5,
+    "startTime": "14:10",
+    "endTime": "16:00",
+    "presenter": "Pınar İnanç Akar"
+  },
+  {
+    "id": "kafa-baf393b38f",
+    "stationId": "kafa-radyo",
+    "title": "Zekirdek",
+    "dayOfWeek": 5,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-a03707b20f",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Sivrisinek",
+    "dayOfWeek": 5,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-346083d644",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Sesi",
+    "dayOfWeek": 5,
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "presenter": "Sinan Tuzcu"
+  },
+  {
+    "id": "kafa-60142d63d8",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 5,
+    "startTime": "21:00",
+    "endTime": "22:00"
+  },
+  {
+    "id": "kafa-286cc2d616",
+    "stationId": "kafa-radyo",
+    "title": "Matrax",
+    "dayOfWeek": 5,
+    "startTime": "22:00",
+    "endTime": "01:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-4d1f5d18f6",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 5,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  },
+  {
+    "id": "kafa-4aa312b0cd",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 6,
+    "startTime": "07:00",
+    "endTime": "11:00"
+  },
+  {
+    "id": "kafa-7487038cc2",
+    "stationId": "kafa-radyo",
+    "title": "Turizm Kafası",
+    "dayOfWeek": 6,
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "presenter": "Deniz Dikkaya"
+  },
+  {
+    "id": "kafa-6891fe2e43",
+    "stationId": "kafa-radyo",
+    "title": "Salih'le Mevzu Bahis",
+    "dayOfWeek": 6,
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "presenter": "Salih Gümbüşoğlu"
+  },
+  {
+    "id": "kafa-8e8cf513e4",
+    "stationId": "kafa-radyo",
+    "title": "Otomobil Adamlar",
+    "dayOfWeek": 6,
+    "startTime": "14:00",
+    "endTime": "15:00"
+  },
+  {
+    "id": "kafa-f637be2b57",
+    "stationId": "kafa-radyo",
+    "title": "30 Kafa Şarkı",
+    "dayOfWeek": 6,
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "presenter": "Selami Bilgiç"
+  },
+  {
+    "id": "kafa-30a10f4ee0",
+    "stationId": "kafa-radyo",
+    "title": "Nihat'la Sivrisinek",
+    "dayOfWeek": 6,
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "presenter": "Nihat Sırdar"
+  },
+  {
+    "id": "kafa-fd74418943",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Müzik",
+    "dayOfWeek": 6,
+    "startTime": "19:00",
+    "endTime": "23:00"
+  },
+  {
+    "id": "kafa-49bf847a95",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Mix",
+    "dayOfWeek": 6,
+    "startTime": "23:00",
+    "endTime": "01:00",
+    "presenter": "Cenker Bayrak"
+  },
+  {
+    "id": "kafa-2292888da6",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Müzik",
+    "dayOfWeek": 6,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  },
+  {
+    "id": "kafa-cc6e202586",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 0,
+    "startTime": "07:00",
+    "endTime": "11:00"
+  },
+  {
+    "id": "kafa-247ac7b055",
+    "stationId": "kafa-radyo",
+    "title": "Dilek ile Kendine Çok İyi Bak",
+    "dayOfWeek": 0,
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "presenter": "Dilek Uslu"
+  },
+  {
+    "id": "kafa-b9b681d018",
+    "stationId": "kafa-radyo",
+    "title": "Salih'le Mevzu Bahis",
+    "dayOfWeek": 0,
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "presenter": "Salih Gümbüşoğlu"
+  },
+  {
+    "id": "kafa-e5a8edf807",
+    "stationId": "kafa-radyo",
+    "title": "Müzik Kafası",
+    "dayOfWeek": 0,
+    "startTime": "14:00",
+    "endTime": "15:00"
+  },
+  {
+    "id": "kafa-55df63a873",
+    "stationId": "kafa-radyo",
+    "title": "30 Kafa Şarkı",
+    "dayOfWeek": 0,
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "presenter": "Selami Bilgiç"
+  },
+  {
+    "id": "kafa-4af584e9b5",
+    "stationId": "kafa-radyo",
+    "title": "Zekirdek",
+    "dayOfWeek": 0,
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "presenter": "Zeki Kayahan Coşkun"
+  },
+  {
+    "id": "kafa-2f7de532e7",
+    "stationId": "kafa-radyo",
+    "title": "Radyodaki Adam",
+    "dayOfWeek": 0,
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "presenter": "Mustafa Fidan"
+  },
+  {
+    "id": "kafa-852187cd17",
+    "stationId": "kafa-radyo",
+    "title": "Sarı Tramvay",
+    "dayOfWeek": 0,
+    "startTime": "21:00",
+    "endTime": "23:00",
+    "presenter": "Güçlü Mete"
+  },
+  {
+    "id": "kafa-1f72ddf00b",
+    "stationId": "kafa-radyo",
+    "title": "Buyurun Konuşalım",
+    "dayOfWeek": 0,
+    "startTime": "23:00",
+    "endTime": "01:00",
+    "presenter": "Aret Vartanyan"
+  },
+  {
+    "id": "kafa-0b473ac048",
+    "stationId": "kafa-radyo",
+    "title": "Kafa Müzik",
+    "dayOfWeek": 0,
+    "startTime": "01:00",
+    "endTime": "07:00"
+  }
+]
